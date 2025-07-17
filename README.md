@@ -6,7 +6,8 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, a
 
 ## 🌐 Live Preview
 
-> Click here to view the website (https://rajkamal-ctrl.github.io/Demo-Portfolio/)  
+> Click here to view the website 
+> https://rajkamal-ctrl.github.io/Demo-Portfolio/
 
 ---
 
